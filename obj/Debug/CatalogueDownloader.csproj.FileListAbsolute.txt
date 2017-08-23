@@ -1,0 +1,9 @@
+c:\users\memphis\documents\visual studio 2015\Projects\CatalogueDownloader\CatalogueDownloader\bin\Debug\CatalogueDownloader.exe.config
+C:\Users\Memphis\documents\visual studio 2015\Projects\CatalogueDownloader\CatalogueDownloader\bin\Debug\CatalogueDownloader.exe
+C:\Users\Memphis\documents\visual studio 2015\Projects\CatalogueDownloader\CatalogueDownloader\bin\Debug\CatalogueDownloader.pdb
+C:\Users\Memphis\documents\visual studio 2015\Projects\CatalogueDownloader\CatalogueDownloader\obj\Debug\CatalogueDownloader.csprojResolveAssemblyReference.cache
+C:\Users\Memphis\documents\visual studio 2015\Projects\CatalogueDownloader\CatalogueDownloader\obj\Debug\CatalogueDownloader.exe
+C:\Users\Memphis\documents\visual studio 2015\Projects\CatalogueDownloader\CatalogueDownloader\obj\Debug\CatalogueDownloader.pdb
+C:\Users\Memphis\documents\visual studio 2015\Projects\CatalogueDownloader\CatalogueDownloader\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Memphis\documents\visual studio 2015\Projects\CatalogueDownloader\CatalogueDownloader\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Memphis\documents\visual studio 2015\Projects\CatalogueDownloader\CatalogueDownloader\bin\Debug\HtmlAgilityPack.xml
